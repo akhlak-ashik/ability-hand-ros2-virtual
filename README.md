@@ -23,6 +23,24 @@ Visualization: RViz 2
 Hardware: Not required
 ```
 
+## Demo Videos
+
+### Option A: Automatic Hand Wave Motion
+
+<video src="media/Automatic_hand_wave_motion.webm" controls width="800"></video>
+
+[Watch the automatic hand wave demo](media/Automatic_hand_wave_motion.webm)
+
+This demo shows the virtual PSYONIC Ability Hand moving automatically in RViz using the `fake_hand_wave` node.
+
+### Option B: Manual Finger Control
+
+<video src="media/Manual_finger_control.webm" controls width="800"></video>
+
+[Watch the manual finger control demo](media/Manual_finger_control.webm)
+
+This demo shows manual finger control using terminal commands such as `open`, `close`, `pinch`, `point`, and `peace`.
+
 ## Original Repository
 
 This project is based on the official PSYONIC Ability Hand ROS 2 repository:
