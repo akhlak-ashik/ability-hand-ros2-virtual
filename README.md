@@ -47,8 +47,6 @@ git clone https://github.com/akhlak-ashik/ability-hand-ros2-virtual.git
 cd ability-hand-ros2-virtual
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
-
 ---
 
 ### 2. Install dependencies
