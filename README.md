@@ -43,7 +43,7 @@ Please keep the original license and credit when redistributing modified code.
 mkdir -p ~/ability_hand_ws
 cd ~/ability_hand_ws
 
-git clone https://github.com/YOUR_USERNAME/ability-hand-ros2-virtual.git
+git clone https://github.com/akhlak-ashik/ability-hand-ros2-virtual.git
 cd ability-hand-ros2-virtual
 ```
 
